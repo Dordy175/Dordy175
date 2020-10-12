@@ -17,7 +17,12 @@
 
 - Not public yet, signature based detection app
 
-
+## <img color="#3DDC84" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jetbrains/jetbrains.png" /> Java Learning  
+<p>
+ [JetBrains Academy projects](https://www.jetbrains.com/academy/)
+</p>
+- [1. Project - Simple](https://github.com/Dordy175/Simple-Chatty-Bot)
+- s
 <!--
 **Dordy175/Dordy175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
