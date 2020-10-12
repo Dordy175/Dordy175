@@ -19,7 +19,7 @@
 
 ## <img color="#3DDC84" height="32" width="32" src="https://simpleicons.org/icons/jetbrains.svg" /> Java Learning  
 
- [JetBrains Academy projects](https://www.jetbrains.com/academy/)
+ [JetBrains Academy projects](https://www.jetbrains.com/academy/) [Hyperskill.org](https://hyperskill.org/profile/58756634) 
 - [Simple Chat Bot](https://github.com/Dordy175/Simple-Chatty-Bot)
 - [Tic Tac Toe](https://github.com/Dordy175/Tic-Tac-Toe)
 <!--
