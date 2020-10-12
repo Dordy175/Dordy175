@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love riding motorbikes 🏍️
 
 <br/>
-### Android malware detection 👋
+<h2> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" /> Android malware detection 👋
 
 
 <!--
