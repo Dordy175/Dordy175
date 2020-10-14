@@ -22,7 +22,8 @@
 - [Tic Tac Toe](https://github.com/Dordy175/Tic-Tac-Toe) 🎮
 
 
-
+### Connect with me:
+[<img align="left" alt="Dordy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
