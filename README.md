@@ -22,8 +22,14 @@
 - [Tic Tac Toe](https://github.com/Dordy175/Tic-Tac-Toe) 🎮
 
 
-### Connect with me:
+### Contact me: 
+
 [<img align="left" alt="Dordy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ladislav-dorot%C3%ADk-hello-world/)
+
+<br />
+
+
+
 
 
 
@@ -33,7 +39,7 @@
 
 <!--
 **Dordy175/Dordy175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Languages and Tools:
 Here are some ideas to get you started:
 
  
