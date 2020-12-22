@@ -12,7 +12,9 @@
 
 
 ## <img color="#3DDC84" height="32" width="32" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/17118845241558096223-512.png" /> Crypto
-- [Homomorphic Encryption - Paillier Cryptosystem](https://github.com/Dordy175/Paillier-Cryptosystem-Dordy) 🤖
+
+
+- [Homomorphic Encryption - Paillier Cryptosystem](https://github.com/Dordy175/Paillier-Cryptosystem-Dordy) 🔑🎰🔒🎰🔐
 
 ## <img color="#3DDC84" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /> Android malware detection  
 
@@ -29,7 +31,6 @@
 
 School projects from  [Google CodeLabs Tutorials](https://codelabs.developers.google.com/)
 - [Kotlin Apps Repo](https://github.com/Dordy175/MobileTechnologies) 👽
-
 
 
 ### Contact me: 
