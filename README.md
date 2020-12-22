@@ -21,13 +21,13 @@
 
 - Not public yet, signature based detection app
 
-## <img color="#3DDC84" height="32" width="32" src="https://simpleicons.org/icons/jetbrains.svg" /> Java Learning  
+## <img color="#3DDC84" height="32" width="32" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/13753563501548218185-512.png" /> Java Learning  
 
  In my free time I’m learnin Java with [JetBrains Academy projects](https://www.jetbrains.com/academy/) from [Hyperskill.org](https://hyperskill.org/profile/58756634) 
 - [Simple Chat Bot](https://github.com/Dordy175/Simple-Chatty-Bot) 🤖
 - [Tic Tac Toe](https://github.com/Dordy175/Tic-Tac-Toe) 🎮
 
-## <img color="#3DDC84" height="32" width="32" src="https://simpleicons.org/icons/kotlin.svg" /> Kotlin Learning  
+## <img color="#3DDC84" height="32" width="32" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/18852341021548218200-512.png" /> Kotlin Learning  
 
 School projects from  [Google CodeLabs Tutorials](https://codelabs.developers.google.com/)
 - [Kotlin Apps Repo](https://github.com/Dordy175/MobileTechnologies) 👽
@@ -35,7 +35,7 @@ School projects from  [Google CodeLabs Tutorials](https://codelabs.developers.go
 
 ### Contact me: 
 
-[<img align="left" alt="Dordy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ladislav-dorot%C3%ADk-hello-world/)
+[<img align="left" alt="Dordy | LinkedIn" width="22px" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/10283680821579738434-512.png" />](https://www.linkedin.com/in/ladislav-dorot%C3%ADk-hello-world/)
 
 <br />
 
