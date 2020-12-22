@@ -10,6 +10,8 @@
 - 💬 Ask me about: Everything 
 - ⚡ Fun fact: I love riding motorbikes 🏍️
 
+
+
 ## <img color="#3DDC84" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /> Android malware detection  
 
 
@@ -20,6 +22,12 @@
  In my free time I’m learnin Java with [JetBrains Academy projects](https://www.jetbrains.com/academy/) from [Hyperskill.org](https://hyperskill.org/profile/58756634) 
 - [Simple Chat Bot](https://github.com/Dordy175/Simple-Chatty-Bot) 🤖
 - [Tic Tac Toe](https://github.com/Dordy175/Tic-Tac-Toe) 🎮
+
+## <img color="#3DDC84" height="32" width="32" src="https://simpleicons.org/icons/kotlin.svg" /> Kotlin Learning  
+
+School projects from  [Google CodeLabs Tutorials](https://codelabs.developers.google.com/)
+- [Kotlin Apps Repo](https://github.com/Dordy175/MobileTechnologies) 👽
+
 
 
 ### Contact me: 
