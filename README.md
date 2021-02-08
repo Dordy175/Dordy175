@@ -10,7 +10,7 @@
 - 💬 Ask me about: Everything 
 
 
-## <img color="#3DDC84" height="32" width="32" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/17118845241558096223-512.png" /> Crypto
+## <img color="#3DDC84" height="32" width="32" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Fcryptography_1163519&psig=AOvVaw2qq3eoaA8lN1KrrinQjAfu&ust=1612887895335000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiR0eLZ2u4CFQAAAAAdAAAAABAD" /> Crypto
 
 
 - [Homomorphic Encryption - Paillier Cryptosystem](https://github.com/Dordy175/Paillier-Cryptosystem-Dordy) 🔑🎰🔒🎰🔐
