@@ -20,7 +20,7 @@
 
 - Not public 
 
-## <img color="#3DDC84" height="32" width="32" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/18852341021548218200-512.png" /> Kotlin Learning  
+## <img color="#3DDC84" height="32" width="32" src="https://img.icons8.com/color/48/000000/kotlin.png" /> Kotlin Learning  
 
 School projects from  [Google CodeLabs Tutorials](https://codelabs.developers.google.com/)
 - [Kotlin Apps Repo](https://github.com/Dordy175/MobileTechnologies) 👽
