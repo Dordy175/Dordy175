@@ -25,7 +25,7 @@
 School projects from  [Google CodeLabs Tutorials](https://codelabs.developers.google.com/)
 - [Kotlin Apps Repo](https://github.com/Dordy175/MobileTechnologies) 👽
 
-## <img color="#3DDC84" height="32" width="32" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/13753563501548218185-512.png" /> Java Learning  
+## <img color="#3DDC84" height="32" width="32" src="https://img.icons8.com/color/48/000000/intellij-idea.png" /> Java Learning  
 
  In my free time I’m learnin Java with [JetBrains Academy projects](https://www.jetbrains.com/academy/) from [Hyperskill.org](https://hyperskill.org/profile/58756634) 
 - [Simple Chat Bot](https://github.com/Dordy175/Simple-Chatty-Bot) 🤖
