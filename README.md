@@ -10,7 +10,7 @@
 - 💬 Ask me about: Everything 
 
 
-## <img color="#3DDC84" height="32" width="32" src="https://img.icons8.com/ios/64/000000/data-encryption.png" /> Crypto
+## <img color="#3DDC84" height="32" width="32" src="https://img.icons8.com/nolan/64/data-encryption.png" /> Crypto
 
 
 - [Homomorphic Encryption - Paillier Cryptosystem](https://github.com/Dordy175/Paillier-Cryptosystem-Dordy) 🔑🎰🔒🎰🔐
