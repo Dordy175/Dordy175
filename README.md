@@ -6,9 +6,8 @@
 
 - 👽 I´m Cyber Security student interested in Android malware detection 💚
 - 🔭 I’m currently working on: Paillier Cryptosystem
-- 🌱 I’m currently learning: Cyber Security, Wolfram, Ciphers, Java, Kotlin.....
+- 🌱 I’m currently learning: Cyber Security, Android, Wolfram, Ciphers, Java, Kotlin.....
 - 💬 Ask me about: Everything 
-- ⚡ Fun fact: I love riding motorbikes 🏍️
 
 
 ## <img color="#3DDC84" height="32" width="32" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/17118845241558096223-512.png" /> Crypto
@@ -19,7 +18,7 @@
 ## <img color="#3DDC84" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /> Android malware detection  
 
 
-- Not public yet, contact me for more informations
+- Not public 
 
 ## <img color="#3DDC84" height="32" width="32" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/18852341021548218200-512.png" /> Kotlin Learning  
 
