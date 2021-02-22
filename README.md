@@ -6,8 +6,7 @@
 
 - 👽 I´m Cyber Security student interested in Android malware detection 💚
 - 🔭 I’m currently working on: Paillier Cryptosystem
-- 🌱 I’m currently learning: Cyber Security, Android, Wolfram, Ciphers, Java, Kotlin.....
-- 💬 Ask me about: Everything 
+- 🌱 I’m currently learning: Cyber Security, Android, Wolfram, Ciphers, Linux, Malware Analysis.....
 
 
 ## <img color="#3DDC84" height="32" width="32" src="https://img.icons8.com/nolan/64/data-encryption.png" /> Crypto
