@@ -33,7 +33,7 @@ School projects from  [Google CodeLabs Tutorials](https://codelabs.developers.go
 
 ### Contact me: 
 
-[<img align="left" alt="Dordy | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />](https://www.linkedin.com/in/ladislav-dorot%C3%ADk-hello-world/)
+[<img align="left" alt="Dordy | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-256.png" />](https://www.linkedin.com/in/ladislav-dorotik/)
 
 <br />
 
