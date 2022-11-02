@@ -5,8 +5,8 @@
 ### Hi there, welcome to my GitHub! 👋
 
 - 👽 I´m Cyber Security student interested in Android malware detection 💚
-- 🔭 I’m currently working on: APK Analysis
-- 🌱 I’m currently learning: Cyber Security, Android, Wolfram, Ciphers, Linux, Malware Analysis.....
+- 🔭 I’m currently working on: APK Analysis, Dataset verification
+- 🌱 I’m currently learning: Cyber Security, Android, Python, Ciphers, Linux, Malware Analysis.....
 
 
 ## <img color="#3DDC84" height="32" width="32" src="https://img.icons8.com/nolan/64/data-encryption.png" /> Crypto
